@@ -1,11 +1,11 @@
 {
   "name": "react-mobile-picker-next",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "description": "An iOS like select box component for React",
   "main": "dist/lib/react-mobile-picker.js",
   "repository": {
     "type": "git",
-    "url": "adcentury/react-mobile-picker"
+    "url": "joxelstudios/react-mobile-picker-next"
   },
   "files": [
     "LICENCE",
